@@ -1,0 +1,15 @@
+name: eth-qhack-qili
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - ipython
+  - networkx
+  - qibo
+  - numpy
+  - matplotlib
+  - scipy
+  - scqubits
+  - qutip
+  - python-cas
